@@ -45,4 +45,4 @@
 ## GitHub Stats
 
 [![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbwkh&theme=synthwave&show_icons=true)](https://github.com/lbwkh/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbwkh&theme=synthwave&layout=compact)](https://github.com/lbwkh/github-readme-stats)
