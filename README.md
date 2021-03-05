@@ -6,13 +6,13 @@
   <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-```markdown
+
 ![](https://www.codewars.com/users/LBWKH/badges/micro)
-```
+
 
 ## If you want to see some of my projects, check:
-[PICKR](https://pickr.netlify.app/)
-[Zombies VS Plants ](https://lbwkh.github.io/ZombiesVsPlants/)
+[PICKR](https://github.com/LBWKH/pickr-project)
+[Zombies VS Plants ](https://github.com/LBWKH/ZombiesVsPlants)
 
 ## My Stack
 
