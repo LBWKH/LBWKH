@@ -3,7 +3,7 @@
   <img align="center" alt="LinkdeIN" width="22px" color="yellow" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="mailto:bwkh.leonard@gmail.com">
-  <img align="center" alt="Gmail" width="22px" color="yellow" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" alt="Gmail" width="22px" color="yellow" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br>
