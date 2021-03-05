@@ -1,6 +1,6 @@
 # Hi, I'm Leonard! 👋
 <a target="_blank" href="https://www.linkedin.com/in/leonardkimher/">
-  <img align="center" alt="LinkdeIN" width="22px" color="yellow" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="mailto:bwkh.leonard@gmail.com">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
