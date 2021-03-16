@@ -13,6 +13,8 @@
 
 
 ## If you want to see some of my projects, check:
+[OddMarket](https://github.com/LBWKH/OddMarket---Client)
+
 [PICKR](https://github.com/LBWKH/pickr-project)
 
 [Zombies VS Plants ](https://github.com/LBWKH/ZombiesVsPlants)
